@@ -17,19 +17,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Deg-h2-BbY">
-                                <rect key="frame" x="196" y="550" width="94" height="30"/>
-                                <color key="backgroundColor" red="0.97843254239999999" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="94" id="JiP-KG-Dfg"/>
-                                </constraints>
-                                <state key="normal" title="A longer label"/>
-                                <connections>
-                                    <action selector="buttonTapped:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="n09-Rh-2on"/>
-                                </connections>
-                            </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rTp-uZ-Dvd">
-                                <rect key="frame" x="250" y="480" width="40" height="30"/>
+                                <rect key="frame" x="247" y="480" width="46" height="30"/>
                                 <color key="backgroundColor" red="0.001330525038" green="1" blue="0.043233208439999997" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
@@ -38,13 +27,24 @@
                                     <action selector="buttonTapped:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="6u7-5R-Ns3"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Deg-h2-BbY">
+                                <rect key="frame" x="199" y="550" width="94" height="30"/>
+                                <color key="backgroundColor" red="0.97843254239999999" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="94" id="r2J-5a-kCv"/>
+                                </constraints>
+                                <state key="normal" title="A longer label"/>
+                                <connections>
+                                    <action selector="buttonTapped:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="n09-Rh-2on"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstAttribute="bottom" secondItem="Deg-h2-BbY" secondAttribute="bottom" constant="20" id="3jI-oz-Vwv"/>
-                            <constraint firstAttribute="centerX" secondItem="Deg-h2-BbY" secondAttribute="centerX" constant="57" id="6eQ-Hi-KTn"/>
-                            <constraint firstItem="rTp-uZ-Dvd" firstAttribute="centerX" secondItem="Deg-h2-BbY" secondAttribute="centerX" constant="27" id="L0Q-88-7dx"/>
-                            <constraint firstItem="rTp-uZ-Dvd" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="234" id="aUU-le-8wL"/>
+                            <constraint firstAttribute="centerX" secondItem="Deg-h2-BbY" secondAttribute="centerX" constant="54" id="6eQ-Hi-KTn"/>
+                            <constraint firstItem="rTp-uZ-Dvd" firstAttribute="centerX" secondItem="Deg-h2-BbY" secondAttribute="centerX" constant="24" id="L0Q-88-7dx"/>
+                            <constraint firstItem="rTp-uZ-Dvd" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="231" id="aUU-le-8wL"/>
                             <constraint firstItem="Deg-h2-BbY" firstAttribute="top" secondItem="rTp-uZ-Dvd" secondAttribute="bottom" constant="40" id="bV6-mf-HeR"/>
                         </constraints>
                     </view>
