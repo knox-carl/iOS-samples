@@ -2,17 +2,19 @@
 //  RWAppDelegate.m
 //  ShowTracker
 //
-//  Created by Joshua on 3/1/14.
-//  Copyright (c) 2014 Ray Wenderlich. All rights reserved.
+//  Created by Carl R. Knox on 01/28/15.
+//  Copyright (c) 2015 Carl R. Knox. All rights reserved.
 //
 
 #import "AppDelegate.h"
+#import <AFNetworking/AFNetworkActivityIndicatorManager.h>
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    [AFNetworkActivityIndicatorManager sharedManager].enabled = YES;
     return YES;
 }
 							
