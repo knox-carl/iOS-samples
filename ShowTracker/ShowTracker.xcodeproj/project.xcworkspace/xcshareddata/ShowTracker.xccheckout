@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A5208185-B12D-4B47-9515-107035EE83DC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ShowTracker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2BF5EC82E85A84CDD7C505B3A27A1BA1B5CB9856</key>
+		<string>https://github.com/knox-carl/iOS-samples.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ShowTracker/ShowTracker.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2BF5EC82E85A84CDD7C505B3A27A1BA1B5CB9856</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/knox-carl/iOS-samples.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2BF5EC82E85A84CDD7C505B3A27A1BA1B5CB9856</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2BF5EC82E85A84CDD7C505B3A27A1BA1B5CB9856</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-samples</string>
+		</dict>
+	</array>
+</dict>
+</plist>
