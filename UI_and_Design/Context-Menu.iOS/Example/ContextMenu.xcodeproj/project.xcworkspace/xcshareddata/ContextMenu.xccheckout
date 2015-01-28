@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>23B51027-A797-4E50-904F-39FA34760409</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ContextMenu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2BF5EC82E85A84CDD7C505B3A27A1BA1B5CB9856</key>
+		<string>https://github.com/knox-carl/iOS-samples.git</string>
+		<key>E2B7BD42D9AFFC6EBA9549F67C97EBC7947EB27D</key>
+		<string>https://github.com/Yalantis/Context-Menu.iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example/ContextMenu.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2BF5EC82E85A84CDD7C505B3A27A1BA1B5CB9856</key>
+		<string>../../../../..</string>
+		<key>E2B7BD42D9AFFC6EBA9549F67C97EBC7947EB27D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Yalantis/Context-Menu.iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E2B7BD42D9AFFC6EBA9549F67C97EBC7947EB27D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2BF5EC82E85A84CDD7C505B3A27A1BA1B5CB9856</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E2B7BD42D9AFFC6EBA9549F67C97EBC7947EB27D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Context-Menu.iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
